@@ -1,0 +1,14 @@
+{
+    "sub": 7,
+    "session": 1,
+    "date": "14-Mar-2019 15:55:10",
+    "task": "learn-att-v1_step1-rewards-v1",
+    "BIDS": "v1.1",
+    "resp_order": 0,
+    "resp_key": "clockwise: f, anticlockwise: j",
+    "reward_key": "row 1 = high reward col, row 2 = low reward col, rgb",
+    "reward_cols": [[100,0,100],[253,106,2]],
+    "target_contrasts": [0.6820943933454693,0.7952493327649675],
+    "cue_probs": ".8/.2, .5/.5, .2/.8",
+    "cue_order": [3,2,1]
+}

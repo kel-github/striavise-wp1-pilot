@@ -1,0 +1,12 @@
+{
+    "sub": 3,
+    "session": 1,
+    "date": "27-Mar-2019 13:33:24",
+    "task": "learn-att-v1_step1-cues-v1",
+    "BIDS": "v1.1",
+    "resp_order": 0,
+    "resp_key": "clockwise: f, anticlockwise: j",
+    "target_contrasts": [0.3274971696142193,0.2965195693670175],
+    "cue_probs": ".8/.2, .5/.5, .2/.8",
+    "cue_order": [2,3,1]
+}

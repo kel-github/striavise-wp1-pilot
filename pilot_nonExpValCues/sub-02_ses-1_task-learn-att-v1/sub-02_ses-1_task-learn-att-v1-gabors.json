@@ -1,0 +1,10 @@
+{
+    "sub": 2,
+    "session": 1,
+    "date": "12-Mar-2019 14:07:26",
+    "task": "learn-att-v1_step1-gabors-v1",
+    "BIDS": "v1.1",
+    "resp_order": 0,
+    "resp_key": "clockwise: f, anticlockwise: j",
+    "target_contrasts": [0.6967744004652945,0.4045839603726952]
+}
